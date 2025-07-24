@@ -6,3 +6,27 @@ Computational thinking techniques
 5. Logical Reasoning
 6.Evaluation:Checking if the program works as intended or needs to be improved.
 
+Fundamental Concepts of Mathematical Thinking
+    Logical Reasoning and Proof Techniques
+       Logic as a Foundation
+       1 Propositional Logic: uses basic statements and logical connectives (AND,OR,NOT,etc) to build and analyze conditions.
+       2. Predicate Logic: Incorporates quantifiers such as "for all" and "exists" to express more nuanced statements about data 
+         or program states
+       Proof Techniques
+        1. Direct proof: step by step reasoning to show that a given statement holds
+        2. Proof by Contradiction: Assumes the opposite of what you want to prove, then shows that this leads to an inconsistency.
+        3. Mathematical induction: ideal for proving properties of recursive algorithms or statements defined on a natural numbers.
+        4. Application in coding: Establish invariants within loops. Verify the correctness of recursive solutions or
+           iterative processes
+           
+  Set Theory, functions, and   Relations:
+    Set Theory Fundamentals
+     1. Sets and subsets: organize data, understand membership and relationships between groups (useful in database queries or  
+        data  filtering.
+      2. Operations:  Union, intersections and complement allow coders to merge datasets or determine overlapping properties.
+    Functions and mappings:
+     1. Definition: A function maps element from one set to another -think input-output relationships in your code
+     2. Injective, Surjective, and Bijective Functions: Concpepts that help in understanding data transformations or designing 
+       hash  functions
+     
+        
