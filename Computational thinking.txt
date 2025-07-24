@@ -1,0 +1,8 @@
+Computational thinking techniques
+1. Decomposition: breaking down problems into smaller tasks.
+2. Pattern recognition/Generalization :
+3. Abstraction: simplifying problem by focusing on important parts.
+4. Algorithms: Set of steps set for a program to follow.
+5. Logical Reasoning
+6.Evaluation:Checking if the program works as intended or needs to be improved.
+
